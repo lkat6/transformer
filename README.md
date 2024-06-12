@@ -1,1 +1,1 @@
-Transformer used for Mini Chatbot training
+TransFormer used for Mini Chatbot training
